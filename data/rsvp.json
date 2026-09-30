@@ -1,0 +1,44 @@
+[
+  {
+    "id": "rsvp-1790751382933",
+    "name": "Ahmad Fauzi & Istri",
+    "guestCount": 2,
+    "status": "HADIR",
+    "createdAt": "2026-09-30T06:56:22.933Z"
+  },
+  {
+    "id": "rsvp-1",
+    "name": "Sarah Amalia & Partner",
+    "guestCount": 2,
+    "status": "HADIR",
+    "createdAt": "2026-09-28T09:15:00Z"
+  },
+  {
+    "id": "rsvp-2",
+    "name": "Dr. Dimas Prasetyo",
+    "guestCount": 1,
+    "status": "HADIR",
+    "createdAt": "2026-09-28T11:42:00Z"
+  },
+  {
+    "id": "rsvp-3",
+    "name": "Reza Firmansyah",
+    "guestCount": 1,
+    "status": "MASIH RAGU",
+    "createdAt": "2026-09-28T14:20:00Z"
+  },
+  {
+    "id": "rsvp-4",
+    "name": "Dian Kusumawardani",
+    "guestCount": 0,
+    "status": "TIDAK HADIR",
+    "createdAt": "2026-09-29T08:05:00Z"
+  },
+  {
+    "id": "rsvp-5",
+    "name": "Keluarga Om Doni & Tante Rina",
+    "guestCount": 2,
+    "status": "HADIR",
+    "createdAt": "2026-09-29T10:30:00Z"
+  }
+]
